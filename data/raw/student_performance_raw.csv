@@ -1,0 +1,1001 @@
+city,course,batch_type,weekly_study_hours,attendance_pct,prev_exam_score,mock_test_3,income_bracket,feedback_text
+Pune,CS,Morning,3.8,45.5,80.4,57.7,High,Need more visual aids
+Delhi,Chemistry,Weekend,13.6,53.1,47.5,,High,Need more visual aids
+Bangalore,Physics,Evening,5.0,33.7,,36.2,,Excellent teaching style
+Chennai,Physics,Evening,3.5,53.2,68.3,61.1,Low,Need more visual aids
+Bangalore,Biology,Morning,24.0,89.6,100.0,,,Instructor was very helpful
+Chennai,CS,Weekend,,36.0,,62.1,Medium,"Great course, learned a lot"
+Pune,CS,Evening,5.0,32.9,,100.0,Low,Would recommend to others
+Pune,Chemistry,Evening,16.1,88.4,60.6,79.8,Low,
+Delhi,Physics,Evening,0.5,61.7,77.3,40.5,Medium,"Great course, learned a lot"
+Bangalore,Biology,Weekend,5.9,74.0,55.1,59.6,,Need more visual aids
+Chennai,Physics,Weekend,14.6,39.5,,30.5,Medium,
+Bangalore,CS,Morning,11.8,75.6,73.1,52.9,High,Instructor was very helpful
+Bangalore,Chemistry,Morning,6.1,39.2,,33.1,Medium,Need more visual aids
+Delhi,Math,Evening,1.9,91.1,71.8,42.0,Medium,Pace was too fast
+Pune,Chemistry,Weekend,1.0,20.0,,,Medium,
+Pune,Chemistry,Evening,0.7,64.5,83.4,49.4,Medium,Would recommend to others
+Delhi,Math,Evening,17.7,78.7,72.8,44.0,Low,Materials were comprehensive
+Bangalore,Chemistry,Morning,0.9,64.1,61.1,54.9,,
+Chennai,Math,Weekend,3.0,41.8,68.8,,Low,"Great course, learned a lot"
+Chennai,Physics,Weekend,2.3,43.2,76.7,100.0,,Materials were comprehensive
+Pune,Math,Weekend,11.8,47.4,33.9,75.3,High,"Great course, learned a lot"
+Pune,Biology,Weekend,8.3,50.5,80.5,70.4,,Instructor was very helpful
+Bangalore,Biology,Weekend,0.1,56.7,54.9,62.6,High,Excellent teaching style
+Mumbai,Physics,Morning,2.6,70.7,51.2,89.7,Medium,Need more visual aids
+Chennai,Physics,Weekend,6.4,48.5,44.4,65.9,Medium,Materials were comprehensive
+Bangalore,Physics,Evening,10.3,42.7,46.1,82.7,Medium,
+Delhi,CS,Evening,8.1,93.0,67.0,61.6,,Instructor was very helpful
+Mumbai,Physics,Evening,9.3,65.1,54.2,,Medium,Pace was too fast
+Pune,CS,Morning,1.6,80.9,50.4,73.6,Medium,Need more visual aids
+Delhi,Biology,Morning,18.4,66.9,63.3,89.0,Medium,Materials were comprehensive
+Chennai,Math,Morning,8.1,80.8,71.3,42.7,Medium,Materials were comprehensive
+Pune,Physics,Weekend,28.5,78.0,47.2,46.4,Medium,Need more visual aids
+Bangalore,Math,Evening,1.9,91.6,52.4,78.7,Low,Excellent teaching style
+Chennai,Chemistry,Weekend,34.3,95.7,57.5,51.8,Low,"Great course, learned a lot"
+Chennai,Chemistry,Evening,0.8,60.7,60.0,58.4,Medium,Instructor was very helpful
+Delhi,CS,Evening,17.4,20.0,,77.2,Medium,Materials were comprehensive
+Delhi,CS,Weekend,2.6,34.5,,38.1,High,Need more visual aids
+Delhi,Math,Evening,8.0,80.4,83.4,52.3,Medium,Pace was too fast
+Chennai,Biology,Morning,0.2,98.4,49.9,47.0,Medium,Instructor was very helpful
+Chennai,CS,Morning,3.1,84.3,69.7,,Low,"Great course, learned a lot"
+Pune,CS,Morning,4.4,29.3,,50.8,High,Need more visual aids
+Bangalore,Chemistry,Morning,5.9,68.4,44.5,,Low,Would recommend to others
+Mumbai,Math,Evening,0.2,93.5,55.1,69.3,,Would recommend to others
+Bangalore,CS,Evening,0.3,20.0,,47.7,Medium,Instructor was very helpful
+Chennai,Biology,Evening,0.7,44.3,76.5,,High,Need more visual aids
+Chennai,Biology,Evening,8.4,55.4,65.6,,,Could use more practice problems
+Bangalore,Physics,Weekend,4.4,53.0,51.3,65.1,Medium,Materials were comprehensive
+Chennai,Math,Morning,2.6,63.9,27.9,42.7,High,Materials were comprehensive
+Chennai,Physics,Evening,0.7,44.7,73.8,64.8,Low,Excellent teaching style
+Delhi,Math,Morning,3.6,64.1,55.1,53.4,Low,Need more visual aids
+Bangalore,CS,Evening,5.8,58.7,28.9,34.5,Medium,Could use more practice problems
+Delhi,Math,Evening,,64.7,79.6,52.0,Medium,Could use more practice problems
+Delhi,Biology,Morning,36.9,68.5,59.0,44.3,Medium,
+Mumbai,Biology,Evening,5.4,81.8,44.6,59.5,,Pace was too fast
+Pune,CS,Weekend,3.7,51.1,93.0,53.0,Medium,Materials were comprehensive
+Pune,CS,Morning,7.5,37.5,,37.8,Low,Excellent teaching style
+Delhi,Chemistry,Evening,2.6,42.5,78.7,72.2,Low,Would recommend to others
+Pune,Biology,Weekend,,71.1,39.4,62.2,Low,"Great course, learned a lot"
+Bangalore,Physics,Weekend,6.7,75.0,51.3,,,Materials were comprehensive
+Mumbai,Chemistry,Morning,13.0,20.0,,60.3,Medium,
+Pune,CS,Evening,11.8,82.0,73.3,67.8,Low,Could use more practice problems
+Pune,CS,Evening,7.3,76.2,64.3,52.7,,
+Mumbai,Physics,Weekend,2.1,23.0,,47.4,Medium,"Great course, learned a lot"
+Chennai,Chemistry,Evening,1.4,20.0,,48.6,Low,Would recommend to others
+Delhi,Chemistry,Morning,,69.8,80.7,58.1,,Instructor was very helpful
+Bangalore,Biology,Evening,5.7,37.6,,39.6,Medium,Pace was too fast
+Mumbai,CS,Evening,7.4,64.4,58.6,59.9,Medium,
+Delhi,Math,Morning,1.3,83.5,85.9,44.0,,Could use more practice problems
+Delhi,Math,Evening,11.8,78.9,56.1,56.2,Medium,Materials were comprehensive
+Bangalore,Physics,Evening,8.9,84.1,80.5,31.7,,Would recommend to others
+Delhi,CS,Evening,11.3,79.4,68.5,54.4,High,Instructor was very helpful
+Pune,CS,Weekend,1.7,82.2,47.9,60.1,Low,Could use more practice problems
+Pune,Biology,Weekend,1.2,34.7,,49.2,,Need more visual aids
+Pune,Chemistry,Morning,2.9,63.7,100.0,36.4,Medium,Materials were comprehensive
+Pune,Math,Morning,13.8,94.6,63.2,61.4,Medium,
+Delhi,Chemistry,Morning,7.1,56.5,71.1,52.3,High,Pace was too fast
+Bangalore,Math,Evening,7.1,20.0,,86.6,Medium,
+Mumbai,Chemistry,Morning,4.6,65.2,78.0,56.7,Medium,
+Mumbai,Biology,Morning,1.3,87.5,56.7,52.8,Low,Would recommend to others
+Bangalore,Math,Weekend,3.1,69.2,62.5,57.0,High,Need more visual aids
+Delhi,Chemistry,Evening,16.0,49.6,77.1,37.6,Medium,Materials were comprehensive
+Bangalore,Physics,Weekend,1.2,60.9,72.3,46.9,Medium,Instructor was very helpful
+Bangalore,Physics,Weekend,5.6,38.5,,43.2,Medium,"Great course, learned a lot"
+Bangalore,Chemistry,Weekend,13.0,74.2,67.3,65.2,Low,Instructor was very helpful
+Chennai,CS,Morning,1.4,38.0,,65.5,High,"Great course, learned a lot"
+Pune,Biology,Morning,5.9,59.5,84.6,59.7,Medium,Pace was too fast
+Pune,CS,Weekend,24.0,97.3,64.2,83.3,Low,Materials were comprehensive
+Bangalore,Biology,Evening,3.4,46.6,71.4,,,Materials were comprehensive
+Chennai,Biology,Weekend,3.3,37.6,,74.6,Low,Instructor was very helpful
+Delhi,Physics,Weekend,7.6,33.9,,,Low,Need more visual aids
+Delhi,CS,Morning,,97.1,45.1,68.5,,Excellent teaching style
+Pune,CS,Evening,6.5,20.0,,52.1,Low,Instructor was very helpful
+Delhi,Chemistry,Evening,28.0,49.1,58.9,42.0,Medium,Materials were comprehensive
+Bangalore,Math,Morning,8.4,93.7,66.9,30.6,Medium,Could use more practice problems
+Mumbai,Chemistry,Evening,4.1,69.6,52.3,58.9,Medium,"Great course, learned a lot"
+Mumbai,Physics,Morning,0.6,89.6,39.7,37.1,High,Instructor was very helpful
+Chennai,Math,Evening,0.3,69.9,28.2,,Medium,Need more visual aids
+Bangalore,Math,Weekend,17.5,69.3,83.0,79.5,Low,Materials were comprehensive
+Chennai,Chemistry,Weekend,3.5,35.2,,79.2,Medium,Instructor was very helpful
+Pune,Biology,Weekend,3.4,50.9,57.4,57.8,Medium,Need more visual aids
+Bangalore,Math,Evening,14.2,46.3,86.5,72.3,High,Instructor was very helpful
+Delhi,Physics,Weekend,15.5,59.9,51.7,,Medium,Instructor was very helpful
+Chennai,Physics,Weekend,0.1,20.0,,57.8,Medium,Pace was too fast
+Delhi,CS,Weekend,22.0,66.2,66.9,40.2,Medium,Would recommend to others
+Bangalore,Chemistry,Weekend,4.7,20.6,,32.5,Low,Materials were comprehensive
+Delhi,Biology,Weekend,1.0,71.0,68.4,81.0,Medium,Could use more practice problems
+Delhi,Math,Weekend,16.7,45.0,82.1,90.2,Low,Need more visual aids
+Delhi,Biology,Weekend,10.7,29.0,,37.4,Medium,Would recommend to others
+Pune,Chemistry,Evening,0.3,72.6,55.0,68.7,Medium,Need more visual aids
+Delhi,CS,Weekend,23.7,50.4,68.9,43.0,Medium,Materials were comprehensive
+Delhi,CS,Weekend,0.5,80.5,75.0,35.5,Low,Would recommend to others
+Chennai,Math,Morning,4.1,37.3,,61.9,Low,Instructor was very helpful
+Delhi,Biology,Morning,5.5,75.7,68.1,,High,"Great course, learned a lot"
+Pune,Math,Evening,7.2,20.0,,76.9,Low,
+Pune,CS,Morning,10.5,58.6,68.8,46.6,Low,Would recommend to others
+Bangalore,CS,Evening,7.7,71.9,82.1,59.4,Low,Materials were comprehensive
+Chennai,Chemistry,Weekend,2.4,88.4,58.8,74.4,Low,Materials were comprehensive
+Delhi,Physics,Evening,5.5,47.2,52.8,52.2,Medium,Need more visual aids
+Bangalore,Biology,Weekend,11.7,55.1,62.7,72.9,Medium,Need more visual aids
+Bangalore,Biology,Evening,1.1,65.8,70.4,62.7,Low,Could use more practice problems
+Chennai,CS,Weekend,14.2,52.9,50.5,,Medium,
+Chennai,Physics,Morning,6.4,53.8,26.4,76.6,Medium,Materials were comprehensive
+Bangalore,CS,Evening,4.2,63.0,72.8,47.7,Medium,Pace was too fast
+Pune,Chemistry,Morning,7.6,86.1,55.6,83.5,Low,Would recommend to others
+Pune,Physics,Weekend,0.2,61.9,79.0,40.5,Medium,Would recommend to others
+Mumbai,Math,Weekend,7.7,71.4,67.2,73.8,Medium,Materials were comprehensive
+Chennai,Physics,Evening,3.2,80.8,60.3,73.1,Low,Materials were comprehensive
+Pune,Physics,Evening,23.5,54.1,83.1,,High,Pace was too fast
+Mumbai,Math,Morning,1.6,62.2,59.2,42.7,High,Excellent teaching style
+Pune,Chemistry,Weekend,9.8,65.3,92.5,33.7,Medium,Need more visual aids
+Delhi,Math,Weekend,,20.0,,58.0,High,Instructor was very helpful
+Pune,Biology,Morning,7.2,43.2,72.7,48.6,Medium,Pace was too fast
+Bangalore,Physics,Morning,10.8,82.5,63.6,78.6,Low,Need more visual aids
+Chennai,Biology,Weekend,0.8,20.0,,65.3,Low,Instructor was very helpful
+Pune,Math,Morning,16.0,72.0,80.9,99.2,Low,Would recommend to others
+Pune,Physics,Evening,20.4,93.2,49.5,,Low,Would recommend to others
+Bangalore,Physics,Evening,13.2,51.3,71.5,68.0,High,Instructor was very helpful
+Mumbai,Chemistry,Evening,2.2,37.6,,87.0,Medium,Need more visual aids
+Pune,Math,Morning,12.3,56.8,75.6,81.8,Low,"Great course, learned a lot"
+Mumbai,Chemistry,Morning,0.0,56.9,60.9,60.8,Medium,
+Bangalore,Chemistry,Evening,,52.2,89.3,49.1,Medium,Pace was too fast
+Chennai,CS,Morning,27.2,20.0,,64.0,Low,Pace was too fast
+Chennai,Physics,Evening,1.6,38.8,,61.3,Medium,Instructor was very helpful
+Chennai,CS,Evening,3.3,74.5,34.5,62.5,Medium,Instructor was very helpful
+Pune,CS,Morning,4.0,56.2,63.9,44.2,Low,
+Bangalore,CS,Weekend,6.4,86.1,46.9,71.4,Medium,Excellent teaching style
+Chennai,Physics,Morning,,20.0,,83.1,Medium,
+Delhi,Physics,Morning,0.1,32.2,,96.4,Low,Need more visual aids
+Bangalore,Chemistry,Weekend,3.2,77.8,77.2,33.1,High,Would recommend to others
+Mumbai,Math,Morning,10.0,86.0,68.9,57.3,High,Materials were comprehensive
+Pune,CS,Weekend,3.2,72.3,67.1,33.6,Medium,Need more visual aids
+Delhi,Physics,Morning,2.2,81.5,63.4,50.3,Medium,Excellent teaching style
+Pune,Math,Evening,0.4,40.6,65.9,64.9,Low,Would recommend to others
+Delhi,Biology,Evening,1.0,20.0,,,Medium,Materials were comprehensive
+Pune,CS,Evening,6.5,20.0,,49.9,Medium,Excellent teaching style
+Mumbai,CS,Weekend,11.0,41.7,55.1,44.3,Medium,Need more visual aids
+Delhi,Physics,Morning,2.5,88.7,73.8,53.9,Medium,Excellent teaching style
+Bangalore,Math,Evening,7.0,91.8,46.5,38.5,Medium,Need more visual aids
+Chennai,Chemistry,Morning,3.9,53.9,62.2,52.3,Medium,Materials were comprehensive
+Mumbai,Biology,Morning,12.9,59.7,55.2,74.5,Low,Need more visual aids
+Pune,Math,Morning,5.1,20.0,,40.9,Low,"Great course, learned a lot"
+Chennai,Chemistry,Weekend,16.7,82.9,51.6,96.1,High,Could use more practice problems
+Mumbai,Physics,Weekend,5.5,36.6,,56.1,High,Would recommend to others
+Delhi,Biology,Weekend,0.7,83.6,40.6,45.5,Medium,Materials were comprehensive
+Delhi,Chemistry,Morning,6.6,59.2,54.7,61.1,Low,Pace was too fast
+Bangalore,Physics,Morning,1.7,95.1,67.7,59.6,High,Materials were comprehensive
+Bangalore,CS,Weekend,7.8,96.7,55.2,56.5,Low,Instructor was very helpful
+Delhi,Physics,Evening,1.7,20.5,,64.2,Low,Pace was too fast
+Delhi,Biology,Weekend,14.5,20.9,,48.3,Low,
+Chennai,Math,Weekend,4.6,48.2,59.4,47.3,Medium,Excellent teaching style
+Pune,CS,Evening,8.2,20.0,,48.4,Low,
+Mumbai,Math,Morning,5.9,84.7,85.0,,Medium,Would recommend to others
+Pune,Chemistry,Weekend,2.7,65.6,78.1,36.6,High,Could use more practice problems
+Delhi,Biology,Weekend,13.7,39.2,,,High,Instructor was very helpful
+Pune,CS,Evening,0.4,76.8,80.0,94.8,Medium,Need more visual aids
+Mumbai,Biology,Weekend,6.3,81.7,52.1,92.0,Medium,Instructor was very helpful
+Chennai,Biology,Morning,1.5,48.9,57.4,32.6,Low,Instructor was very helpful
+Pune,Physics,Evening,0.8,35.0,,50.8,High,Need more visual aids
+Mumbai,CS,Evening,6.9,57.8,90.0,66.2,Medium,Could use more practice problems
+Delhi,CS,Morning,4.1,53.1,69.7,31.5,,"Great course, learned a lot"
+Chennai,Chemistry,Weekend,5.0,94.0,70.5,37.1,High,Excellent teaching style
+Chennai,Biology,Morning,1.5,92.6,60.8,33.0,Medium,Excellent teaching style
+Mumbai,CS,Evening,0.2,45.4,59.9,52.5,Medium,Would recommend to others
+Pune,Biology,Evening,4.3,71.2,70.5,57.4,High,Need more visual aids
+Pune,Chemistry,Evening,4.3,24.6,,36.6,Low,Could use more practice problems
+Pune,Biology,Evening,9.7,69.1,65.4,46.1,Low,Pace was too fast
+Delhi,CS,Weekend,8.2,46.2,64.2,68.6,High,Excellent teaching style
+Mumbai,Biology,Morning,3.9,76.1,88.7,51.6,Medium,Need more visual aids
+Bangalore,Biology,Evening,8.4,44.7,77.1,,High,Would recommend to others
+Mumbai,Math,Morning,7.8,77.2,85.5,77.5,Low,Instructor was very helpful
+Mumbai,CS,Weekend,16.6,71.2,86.6,54.3,High,Materials were comprehensive
+Chennai,Biology,Weekend,4.8,53.9,74.2,95.7,,Materials were comprehensive
+Delhi,Math,Weekend,2.7,20.0,,53.1,Medium,Pace was too fast
+Chennai,CS,Morning,12.1,47.9,43.0,62.0,Medium,Would recommend to others
+Mumbai,Biology,Evening,2.0,78.2,70.5,,Medium,Materials were comprehensive
+Bangalore,Physics,Evening,18.9,75.1,70.9,32.9,Low,Pace was too fast
+Chennai,Biology,Evening,0.1,44.1,76.1,44.8,Medium,Materials were comprehensive
+Pune,Biology,Morning,0.0,71.7,100.0,66.6,,Need more visual aids
+Delhi,Math,Morning,0.7,58.8,58.0,80.9,Low,
+Chennai,CS,Evening,3.6,56.5,46.1,39.3,Medium,Would recommend to others
+Mumbai,Math,Morning,0.4,91.7,78.5,51.9,Medium,Would recommend to others
+Chennai,Physics,Weekend,23.2,84.7,72.8,67.1,High,Would recommend to others
+Chennai,Biology,Weekend,7.5,87.4,74.7,,High,Would recommend to others
+Chennai,Physics,Morning,0.2,71.5,51.1,65.0,Low,Would recommend to others
+Bangalore,CS,Evening,19.7,70.2,82.5,39.7,Medium,
+Mumbai,CS,Morning,8.8,91.5,64.1,,Low,Excellent teaching style
+Mumbai,Physics,Evening,14.4,62.3,47.5,78.2,High,Instructor was very helpful
+Delhi,CS,Weekend,11.5,39.5,,,Medium,Excellent teaching style
+Bangalore,Physics,Morning,3.5,74.0,74.8,43.7,High,
+Mumbai,CS,Evening,6.2,76.6,54.9,35.2,High,Need more visual aids
+Chennai,Chemistry,Evening,6.3,74.5,64.3,86.6,Medium,Need more visual aids
+Bangalore,Biology,Morning,2.3,25.6,,30.7,High,Excellent teaching style
+Pune,Chemistry,Evening,0.2,55.8,71.1,67.5,Medium,Could use more practice problems
+Delhi,Physics,Evening,3.4,74.4,52.8,58.0,Medium,Would recommend to others
+Mumbai,Chemistry,Weekend,1.1,41.9,88.2,39.7,Medium,Need more visual aids
+Delhi,CS,Evening,,57.3,65.3,,Low,Would recommend to others
+Pune,CS,Weekend,0.9,31.3,,52.6,Low,Could use more practice problems
+Bangalore,Math,Evening,15.3,84.5,45.9,33.3,Low,
+Bangalore,Biology,Morning,3.3,42.8,71.5,74.5,,Pace was too fast
+Bangalore,CS,Evening,2.4,34.2,,78.2,Medium,"Great course, learned a lot"
+Delhi,Biology,Evening,29.8,60.9,95.0,,Low,Could use more practice problems
+Delhi,Chemistry,Evening,3.6,83.0,38.7,89.2,,Excellent teaching style
+Pune,Physics,Morning,2.4,51.4,55.6,74.3,Medium,Instructor was very helpful
+Chennai,Physics,Weekend,1.6,20.0,,78.7,Medium,Could use more practice problems
+Bangalore,Physics,Weekend,2.8,84.0,54.5,69.3,Medium,Materials were comprehensive
+Chennai,Biology,Weekend,10.5,48.2,57.7,70.6,Medium,Could use more practice problems
+Bangalore,Chemistry,Evening,,46.7,54.7,57.8,Medium,Could use more practice problems
+Chennai,Chemistry,Weekend,5.6,54.0,60.4,62.3,Low,Would recommend to others
+Bangalore,CS,Evening,4.4,20.0,,91.2,Low,Need more visual aids
+Bangalore,CS,Evening,15.2,44.6,63.1,70.9,Low,Excellent teaching style
+Delhi,Biology,Morning,4.1,65.9,33.6,58.7,High,"Great course, learned a lot"
+Delhi,CS,Evening,3.6,88.2,53.4,91.6,Low,
+Mumbai,Biology,Evening,9.5,57.0,66.7,76.8,Medium,Materials were comprehensive
+Pune,Chemistry,Evening,23.9,61.6,54.4,77.0,Medium,Pace was too fast
+Chennai,Biology,Evening,23.8,67.4,66.2,54.8,Medium,Excellent teaching style
+Delhi,Biology,Weekend,1.5,47.5,68.0,,Low,Pace was too fast
+Mumbai,Chemistry,Evening,5.6,74.0,46.5,40.9,Low,Materials were comprehensive
+Mumbai,Chemistry,Evening,3.9,31.3,,69.8,Medium,
+Chennai,Chemistry,Weekend,,85.7,83.0,45.9,Medium,
+Delhi,Biology,Morning,1.0,73.3,65.8,74.3,High,Instructor was very helpful
+Mumbai,CS,Morning,7.3,85.0,66.9,51.6,Low,Excellent teaching style
+Mumbai,Biology,Weekend,7.5,60.0,56.1,71.5,Medium,Would recommend to others
+Delhi,Chemistry,Evening,0.4,69.0,56.1,55.0,Low,
+Delhi,Biology,Weekend,20.5,49.3,73.0,90.3,Medium,Need more visual aids
+Mumbai,Biology,Weekend,5.8,57.6,95.4,32.9,Low,Need more visual aids
+Pune,Biology,Evening,0.6,68.8,50.6,63.8,Medium,"Great course, learned a lot"
+Pune,Physics,Evening,1.2,70.9,83.9,51.4,Medium,Materials were comprehensive
+Delhi,Chemistry,Weekend,,94.4,85.2,39.3,Low,Instructor was very helpful
+Mumbai,CS,Weekend,3.0,65.4,63.3,57.2,Medium,Instructor was very helpful
+Mumbai,Physics,Evening,5.0,21.0,,60.3,High,Instructor was very helpful
+Bangalore,Chemistry,Weekend,3.2,70.3,87.0,68.4,High,Would recommend to others
+Chennai,CS,Weekend,9.5,30.3,,45.2,High,Need more visual aids
+Bangalore,Chemistry,Weekend,23.5,48.7,65.5,40.5,Medium,Excellent teaching style
+Bangalore,CS,Morning,8.8,35.1,,77.5,Low,Would recommend to others
+Chennai,Biology,Morning,11.1,72.4,89.0,36.1,Low,Would recommend to others
+Mumbai,CS,Weekend,2.6,51.9,62.0,64.8,Low,Pace was too fast
+Bangalore,Chemistry,Weekend,1.3,20.0,,30.3,Medium,Would recommend to others
+Chennai,Physics,Morning,2.8,52.4,51.5,48.1,Low,Instructor was very helpful
+Mumbai,Physics,Morning,18.0,48.8,11.3,43.5,Low,Instructor was very helpful
+Chennai,Chemistry,Weekend,1.4,52.0,66.4,,Low,Would recommend to others
+Bangalore,Math,Morning,13.5,51.6,46.7,,Medium,
+Delhi,Math,Weekend,3.8,20.0,,96.8,High,Pace was too fast
+Bangalore,Biology,Evening,4.5,54.3,39.2,47.3,Low,Pace was too fast
+Chennai,Math,Weekend,9.6,54.0,88.3,95.1,Low,"Great course, learned a lot"
+Delhi,Biology,Morning,7.1,24.5,,87.0,Medium,Could use more practice problems
+Pune,Math,Morning,15.8,72.1,37.0,60.7,Low,Could use more practice problems
+Chennai,CS,Evening,9.5,49.4,57.9,32.6,Low,Would recommend to others
+Mumbai,Physics,Evening,1.0,84.3,82.4,61.6,Medium,Instructor was very helpful
+Chennai,Math,Evening,18.0,47.9,61.7,36.8,Medium,Pace was too fast
+Mumbai,CS,Evening,9.5,66.3,64.6,60.8,Low,Could use more practice problems
+Bangalore,Biology,Morning,4.9,61.3,51.5,67.2,Medium,Materials were comprehensive
+Bangalore,Biology,Morning,17.8,81.5,40.9,,,Could use more practice problems
+Mumbai,Biology,Evening,1.9,58.3,62.2,45.2,Medium,Instructor was very helpful
+Chennai,Biology,Evening,2.8,71.3,46.3,57.5,Medium,Pace was too fast
+Mumbai,Chemistry,Morning,14.8,87.3,72.3,69.1,Medium,
+Delhi,Physics,Morning,9.9,56.7,81.4,63.4,Low,Instructor was very helpful
+Pune,Biology,Weekend,,79.3,94.2,63.0,Medium,Excellent teaching style
+Mumbai,Physics,Weekend,0.7,54.4,37.6,40.7,Medium,Excellent teaching style
+Chennai,Math,Evening,7.8,77.9,80.5,50.0,Low,
+Bangalore,Chemistry,Evening,3.4,71.4,76.4,64.3,Medium,Could use more practice problems
+Delhi,Physics,Evening,1.1,72.0,65.9,,Medium,Materials were comprehensive
+Bangalore,Biology,Weekend,6.7,39.8,,70.8,Low,Pace was too fast
+Mumbai,Chemistry,Weekend,1.6,33.0,,58.3,Low,Need more visual aids
+Bangalore,CS,Evening,0.2,68.2,50.6,57.9,Low,
+Bangalore,Physics,Evening,9.4,89.1,69.2,56.5,High,Pace was too fast
+Bangalore,Math,Evening,,47.5,73.7,45.2,High,
+Pune,Physics,Weekend,6.9,88.5,53.7,100.0,Medium,
+Mumbai,Physics,Morning,0.7,61.2,58.0,,Low,Instructor was very helpful
+Chennai,Biology,Morning,4.0,30.0,,47.2,,Excellent teaching style
+Bangalore,CS,Evening,7.3,77.6,57.4,86.4,High,Excellent teaching style
+Chennai,CS,Weekend,1.2,71.1,54.2,63.8,Medium,Excellent teaching style
+Mumbai,Biology,Evening,21.5,58.2,67.5,,Medium,
+Delhi,CS,Evening,6.1,37.2,,100.0,Low,Pace was too fast
+Delhi,CS,Weekend,26.2,49.5,50.5,61.3,,Materials were comprehensive
+Bangalore,Math,Weekend,4.9,39.6,,,High,
+Mumbai,CS,Weekend,2.0,95.6,70.7,41.5,Low,Need more visual aids
+Pune,Physics,Evening,2.5,35.5,,62.9,High,
+Bangalore,Math,Morning,3.5,62.0,67.3,74.2,Low,Excellent teaching style
+Bangalore,Math,Morning,16.1,29.4,,,Low,Materials were comprehensive
+Bangalore,CS,Evening,2.2,39.8,,47.4,Medium,Excellent teaching style
+Delhi,Biology,Morning,7.5,67.9,68.3,52.8,Medium,Pace was too fast
+Bangalore,Biology,Weekend,0.7,65.9,74.2,90.4,High,"Great course, learned a lot"
+Bangalore,Chemistry,Evening,4.8,77.3,77.8,59.2,Low,Instructor was very helpful
+Mumbai,Physics,Morning,,75.7,52.6,,Medium,Would recommend to others
+Mumbai,Math,Evening,10.2,93.0,83.4,48.8,,Need more visual aids
+Delhi,Physics,Weekend,7.3,42.6,59.6,55.0,Medium,Materials were comprehensive
+Mumbai,Biology,Evening,0.4,49.2,74.5,41.5,Low,"Great course, learned a lot"
+Chennai,CS,Morning,1.3,75.9,72.8,51.2,Low,Pace was too fast
+Chennai,CS,Weekend,1.5,32.4,,41.4,Medium,Could use more practice problems
+Pune,Physics,Morning,4.6,76.1,55.0,,Medium,
+Bangalore,CS,Morning,18.2,62.8,72.4,46.7,Low,Need more visual aids
+Bangalore,Chemistry,Evening,13.4,21.2,,43.1,Medium,Need more visual aids
+Bangalore,Biology,Evening,31.3,46.6,85.2,70.8,Low,
+Mumbai,Math,Morning,13.3,53.5,64.2,,Low,"Great course, learned a lot"
+Bangalore,Biology,Evening,3.8,58.1,70.9,60.5,High,
+Chennai,Biology,Evening,,62.3,68.0,69.3,Low,Instructor was very helpful
+Chennai,Biology,Weekend,,65.9,71.0,59.8,,Pace was too fast
+Delhi,Biology,Morning,8.6,51.4,57.2,60.5,Medium,Could use more practice problems
+Bangalore,Chemistry,Morning,1.8,53.4,47.3,57.2,Medium,Instructor was very helpful
+Chennai,Physics,Evening,8.4,51.6,62.4,81.4,Medium,Need more visual aids
+Pune,CS,Weekend,1.0,61.9,94.6,91.0,Medium,Instructor was very helpful
+Delhi,Physics,Evening,0.4,50.5,58.1,38.9,Medium,"Great course, learned a lot"
+Chennai,CS,Weekend,6.2,37.8,,34.3,Medium,Need more visual aids
+Delhi,Biology,Weekend,0.3,73.9,36.4,64.6,High,Would recommend to others
+Chennai,Math,Weekend,10.2,22.0,,33.3,Low,Need more visual aids
+Bangalore,Biology,Morning,,55.2,72.1,90.8,High,Could use more practice problems
+Delhi,Math,Evening,1.5,38.7,,100.0,High,Pace was too fast
+Mumbai,Math,Evening,18.5,39.3,,65.1,Medium,Need more visual aids
+Mumbai,Biology,Morning,7.2,57.0,59.9,81.6,Medium,Could use more practice problems
+Mumbai,Math,Evening,3.3,56.5,58.3,63.0,Medium,Need more visual aids
+Chennai,Math,Weekend,1.2,45.7,60.1,31.6,Medium,Pace was too fast
+Delhi,Math,Morning,0.7,82.6,70.9,47.4,Low,Excellent teaching style
+Chennai,Math,Morning,0.6,60.8,55.7,43.7,Medium,"Great course, learned a lot"
+Pune,Physics,Morning,2.3,48.4,71.4,100.0,Medium,Pace was too fast
+Chennai,Chemistry,Weekend,3.8,88.9,87.5,47.1,Low,Instructor was very helpful
+Pune,Chemistry,Evening,4.2,51.2,56.2,94.0,Low,Materials were comprehensive
+Pune,Math,Weekend,3.1,40.0,74.2,55.4,Medium,Materials were comprehensive
+Bangalore,CS,Weekend,,89.7,56.7,64.1,Low,Need more visual aids
+Mumbai,Physics,Morning,8.3,63.1,50.3,41.2,Medium,Would recommend to others
+Delhi,Math,Weekend,45.6,89.0,64.0,50.7,Medium,Could use more practice problems
+Pune,CS,Evening,6.5,71.8,51.6,52.6,Low,Excellent teaching style
+Mumbai,Math,Morning,3.1,40.6,86.1,90.4,Low,Need more visual aids
+Delhi,Math,Evening,5.7,45.3,65.3,42.6,Low,Excellent teaching style
+Bangalore,Physics,Morning,4.5,47.6,65.1,76.1,Medium,Would recommend to others
+Chennai,CS,Weekend,3.3,38.7,,67.0,Low,Excellent teaching style
+Delhi,CS,Morning,12.5,22.7,,86.4,Medium,Pace was too fast
+Delhi,Physics,Weekend,6.4,79.4,31.3,34.3,Low,Would recommend to others
+Bangalore,Biology,Weekend,7.0,70.8,60.5,46.4,Medium,Would recommend to others
+Bangalore,Math,Evening,1.0,43.0,76.9,,Low,
+Chennai,Math,Evening,6.9,35.5,,55.6,Medium,Could use more practice problems
+Chennai,Physics,Evening,,82.5,89.8,56.9,Low,Instructor was very helpful
+Pune,Biology,Evening,5.7,90.3,47.3,54.5,Medium,Instructor was very helpful
+Delhi,Biology,Weekend,1.8,51.5,40.9,,High,
+Chennai,CS,Weekend,34.7,57.2,51.1,69.7,Medium,Need more visual aids
+Pune,Physics,Morning,0.3,31.2,,62.2,Medium,Instructor was very helpful
+Bangalore,Math,Weekend,,35.1,,59.2,Low,Could use more practice problems
+Chennai,Chemistry,Morning,0.4,36.8,,47.6,Medium,"Great course, learned a lot"
+Pune,Physics,Weekend,0.5,44.8,54.3,49.8,Medium,Instructor was very helpful
+Mumbai,CS,Morning,6.5,67.4,52.4,54.5,Medium,Could use more practice problems
+Chennai,Math,Evening,2.7,73.4,67.1,32.5,Medium,Need more visual aids
+Delhi,Math,Morning,5.5,50.8,44.5,39.2,Medium,Would recommend to others
+Mumbai,CS,Weekend,4.9,73.4,52.5,94.1,High,"Great course, learned a lot"
+Mumbai,Physics,Morning,3.1,81.7,61.2,95.4,Medium,Excellent teaching style
+Pune,Math,Evening,12.0,53.7,55.6,45.4,Medium,Could use more practice problems
+Mumbai,Math,Morning,0.8,36.2,,37.3,Medium,Instructor was very helpful
+Pune,Chemistry,Weekend,7.2,43.2,71.7,76.7,Medium,"Great course, learned a lot"
+Pune,Physics,Morning,4.1,23.5,,44.9,Low,"Great course, learned a lot"
+Bangalore,Math,Evening,8.0,29.5,,54.0,Medium,Excellent teaching style
+Delhi,Math,Morning,11.1,27.8,,38.6,High,Would recommend to others
+Pune,Chemistry,Weekend,1.9,66.5,48.6,68.3,Low,Excellent teaching style
+Mumbai,Chemistry,Evening,7.2,53.5,51.9,64.7,High,Pace was too fast
+Delhi,Biology,Morning,36.8,74.3,55.2,55.6,Medium,Could use more practice problems
+Mumbai,Chemistry,Weekend,26.3,20.0,,56.9,Low,Could use more practice problems
+Mumbai,CS,Weekend,2.1,51.6,61.0,51.6,Medium,Instructor was very helpful
+Bangalore,Physics,Weekend,0.5,58.9,56.1,46.6,,Would recommend to others
+Delhi,CS,Morning,18.4,56.6,50.1,40.5,Medium,Could use more practice problems
+Pune,Physics,Weekend,27.9,53.8,69.6,56.9,Medium,Materials were comprehensive
+Pune,Biology,Evening,13.5,91.1,85.4,42.4,High,"Great course, learned a lot"
+Mumbai,Physics,Weekend,7.1,87.6,60.0,34.3,Low,Instructor was very helpful
+Chennai,Math,Weekend,20.3,26.3,,55.5,High,Instructor was very helpful
+Mumbai,Physics,Evening,8.3,29.7,,69.5,Medium,Excellent teaching style
+Delhi,Biology,Evening,0.3,59.6,83.4,94.5,Low,Materials were comprehensive
+Bangalore,Physics,Weekend,5.6,77.6,70.0,80.7,Medium,Instructor was very helpful
+Chennai,Biology,Evening,1.7,66.3,68.0,55.2,Medium,Could use more practice problems
+Mumbai,Math,Morning,8.6,22.8,,75.2,Medium,
+Chennai,Math,Morning,12.9,75.7,82.0,73.2,High,Need more visual aids
+Delhi,CS,Weekend,9.6,80.9,49.9,44.3,Medium,Materials were comprehensive
+Chennai,Math,Morning,1.0,54.7,57.5,49.7,Medium,Materials were comprehensive
+Mumbai,CS,Morning,12.9,50.8,60.7,47.8,High,
+Bangalore,Physics,Morning,12.8,57.0,62.7,66.2,Medium,Excellent teaching style
+Bangalore,Chemistry,Morning,8.6,79.0,75.1,39.5,High,Materials were comprehensive
+Chennai,Math,Evening,5.5,76.6,58.1,44.4,Medium,Would recommend to others
+Bangalore,CS,Weekend,2.7,43.6,64.8,71.5,Low,Instructor was very helpful
+Delhi,Chemistry,Weekend,2.1,76.0,75.8,57.4,Medium,"Great course, learned a lot"
+Pune,Chemistry,Weekend,1.1,57.4,69.3,74.4,High,
+Mumbai,Chemistry,Weekend,0.7,98.4,49.3,74.3,Medium,Would recommend to others
+Pune,Chemistry,Evening,18.1,45.8,52.8,,Low,Instructor was very helpful
+Mumbai,Math,Morning,3.8,36.1,,,Low,Instructor was very helpful
+Chennai,Math,Weekend,6.1,20.0,,,Low,Need more visual aids
+Bangalore,CS,Morning,1.2,56.2,75.3,53.7,Low,Need more visual aids
+Pune,CS,Morning,4.9,55.5,83.6,45.4,Low,Materials were comprehensive
+Pune,Chemistry,Evening,16.2,30.8,,,Low,Excellent teaching style
+Pune,Math,Morning,1.1,86.5,60.1,55.1,High,Materials were comprehensive
+Delhi,Physics,Evening,60.0,52.0,72.2,,Medium,Need more visual aids
+Pune,Math,Morning,,41.7,95.9,,Medium,
+Pune,Physics,Weekend,1.0,21.1,,80.4,Medium,Excellent teaching style
+Chennai,Math,Weekend,2.5,37.9,,,Medium,Instructor was very helpful
+Delhi,CS,Morning,5.1,75.5,52.7,51.3,Medium,Could use more practice problems
+Delhi,Physics,Morning,11.9,44.7,57.4,55.8,Medium,Excellent teaching style
+Mumbai,Chemistry,Morning,13.8,64.4,59.5,96.8,Low,Pace was too fast
+Mumbai,Chemistry,Morning,3.8,23.4,,68.5,,Instructor was very helpful
+Bangalore,Biology,Morning,16.2,61.3,57.7,93.0,High,Instructor was very helpful
+Pune,Biology,Evening,6.3,44.0,75.9,45.7,Medium,Could use more practice problems
+Pune,Math,Morning,16.8,20.1,,55.6,Medium,Pace was too fast
+Delhi,Physics,Weekend,4.1,80.1,78.2,,Medium,Materials were comprehensive
+Bangalore,Math,Weekend,11.4,20.0,,52.1,Medium,Excellent teaching style
+Delhi,Math,Morning,1.5,73.6,54.9,64.1,Low,Could use more practice problems
+Chennai,CS,Morning,1.2,44.8,53.8,60.3,Medium,Would recommend to others
+Pune,Biology,Morning,34.9,86.9,83.0,,Low,"Great course, learned a lot"
+Chennai,Math,Weekend,11.2,90.4,67.6,74.6,Medium,Excellent teaching style
+Delhi,CS,Evening,4.5,51.5,59.9,70.3,Low,Could use more practice problems
+Delhi,CS,Weekend,21.2,43.5,65.6,80.8,Low,Materials were comprehensive
+Chennai,Chemistry,Morning,7.9,80.8,58.7,47.0,,Could use more practice problems
+Bangalore,CS,Morning,18.8,78.1,61.6,77.9,Low,Excellent teaching style
+Mumbai,Physics,Weekend,0.9,48.2,58.2,40.0,Medium,
+Bangalore,Biology,Morning,18.9,56.6,74.9,54.9,High,Could use more practice problems
+Pune,Math,Evening,0.5,76.6,79.6,46.6,,Instructor was very helpful
+Pune,CS,Weekend,2.5,70.4,72.5,42.5,,Need more visual aids
+Mumbai,Biology,Weekend,,45.9,59.2,65.7,Medium,Instructor was very helpful
+Mumbai,Math,Morning,16.1,92.1,76.5,48.7,High,Need more visual aids
+Mumbai,Chemistry,Weekend,0.3,66.1,65.5,,,Would recommend to others
+Delhi,Biology,Evening,3.9,83.4,34.3,,Medium,Could use more practice problems
+Delhi,Biology,Evening,0.6,46.3,59.2,,Medium,Excellent teaching style
+Pune,Math,Weekend,0.1,42.7,62.4,,Low,"Great course, learned a lot"
+Chennai,Math,Evening,9.7,31.9,,66.0,Medium,Pace was too fast
+Delhi,CS,Morning,14.3,85.0,86.0,44.5,High,Excellent teaching style
+Pune,Chemistry,Morning,20.7,49.3,56.2,34.0,Medium,Instructor was very helpful
+Pune,Biology,Evening,1.7,58.3,51.0,43.1,Medium,"Great course, learned a lot"
+Delhi,Biology,Weekend,8.9,57.8,93.6,38.6,High,Materials were comprehensive
+Chennai,CS,Weekend,20.3,20.0,,,High,"Great course, learned a lot"
+Chennai,Physics,Evening,3.7,56.1,54.6,52.9,High,Pace was too fast
+Pune,CS,Weekend,4.0,98.6,91.7,43.4,Low,Materials were comprehensive
+Chennai,CS,Morning,8.7,79.7,48.1,42.2,Medium,
+Mumbai,Biology,Morning,10.9,56.2,88.8,,,Need more visual aids
+Pune,Math,Morning,3.5,52.9,54.1,60.9,Medium,Could use more practice problems
+Pune,Chemistry,Weekend,5.4,51.2,84.4,61.1,Medium,
+Bangalore,Chemistry,Weekend,6.1,27.9,,70.2,Low,Excellent teaching style
+Mumbai,Math,Morning,9.4,28.0,,,Low,Excellent teaching style
+Pune,Biology,Weekend,,22.8,,87.9,Medium,"Great course, learned a lot"
+Bangalore,Physics,Morning,5.9,81.0,57.5,65.2,Medium,Would recommend to others
+Delhi,CS,Morning,2.2,60.3,62.4,53.5,,Materials were comprehensive
+Pune,Physics,Morning,4.2,40.6,69.3,72.2,High,Materials were comprehensive
+Pune,Physics,Morning,12.0,28.0,,91.7,Medium,Could use more practice problems
+Bangalore,Math,Evening,6.1,77.4,90.9,48.2,Medium,Need more visual aids
+Pune,Biology,Morning,26.5,73.1,40.9,45.7,Low,Pace was too fast
+Chennai,Biology,Morning,,63.8,76.1,71.5,Low,
+Pune,Biology,Weekend,1.6,94.4,62.3,63.1,High,Could use more practice problems
+Pune,CS,Evening,2.7,20.0,,67.5,Low,
+Chennai,Chemistry,Morning,3.1,45.2,59.7,53.6,High,Materials were comprehensive
+Mumbai,Biology,Weekend,24.1,33.0,,48.0,Medium,Instructor was very helpful
+Chennai,Chemistry,Morning,9.8,22.6,,,Medium,Materials were comprehensive
+Mumbai,Chemistry,Weekend,13.2,95.2,69.2,,Low,Pace was too fast
+Bangalore,Chemistry,Weekend,1.7,76.8,67.8,44.8,Medium,
+Mumbai,Physics,Weekend,7.4,57.9,65.4,,Medium,Excellent teaching style
+Delhi,CS,Evening,,73.2,67.2,,Medium,Would recommend to others
+Pune,Biology,Evening,19.1,90.9,77.8,81.0,Low,Need more visual aids
+Pune,Biology,Evening,8.0,42.4,60.4,97.7,Medium,Pace was too fast
+Mumbai,Math,Morning,3.2,93.7,54.8,37.2,,Excellent teaching style
+Chennai,Chemistry,Weekend,5.1,68.4,87.9,60.1,High,Pace was too fast
+Bangalore,CS,Weekend,5.1,59.8,54.6,77.0,Low,Excellent teaching style
+Mumbai,Chemistry,Morning,0.8,43.8,65.7,,Medium,Excellent teaching style
+Pune,Chemistry,Evening,11.4,29.3,,39.4,Medium,
+Chennai,CS,Weekend,1.2,51.9,40.9,52.0,Low,Would recommend to others
+Delhi,Chemistry,Weekend,5.1,64.6,48.6,67.3,High,Pace was too fast
+Bangalore,Biology,Morning,15.5,51.6,60.1,60.2,Medium,Would recommend to others
+Bangalore,CS,Evening,2.3,46.4,58.9,34.7,Medium,Materials were comprehensive
+Delhi,CS,Weekend,5.3,32.3,,86.5,Low,Materials were comprehensive
+Pune,Physics,Morning,6.0,63.5,55.6,61.3,Low,Would recommend to others
+Chennai,Math,Morning,4.9,36.3,,66.8,,"Great course, learned a lot"
+Pune,Chemistry,Evening,3.4,31.5,,54.1,Medium,Would recommend to others
+Delhi,Physics,Evening,12.9,27.5,,47.9,Medium,Instructor was very helpful
+Bangalore,Chemistry,Morning,11.8,51.5,66.3,72.2,Medium,"Great course, learned a lot"
+Chennai,Biology,Evening,28.0,83.3,76.2,,Low,"Great course, learned a lot"
+Chennai,Math,Evening,15.6,97.8,43.3,49.4,Medium,Materials were comprehensive
+Chennai,Math,Evening,6.5,83.0,48.0,100.0,Low,Excellent teaching style
+Bangalore,Physics,Evening,19.2,80.8,65.1,63.3,Low,Need more visual aids
+Mumbai,CS,Weekend,0.3,39.1,,62.7,Medium,Pace was too fast
+Mumbai,Physics,Weekend,2.3,64.0,85.4,36.9,Low,Instructor was very helpful
+Mumbai,Chemistry,Morning,1.7,23.7,,,Low,Would recommend to others
+Chennai,CS,Evening,0.6,42.6,63.9,69.9,Medium,Materials were comprehensive
+Bangalore,Chemistry,Morning,10.1,28.1,,39.3,Medium,Instructor was very helpful
+Chennai,Math,Morning,1.5,75.0,57.9,40.5,Medium,Pace was too fast
+Bangalore,Biology,Morning,7.7,24.8,,,Low,Need more visual aids
+Mumbai,CS,Weekend,,73.3,53.4,42.1,,Instructor was very helpful
+Delhi,Chemistry,Morning,4.7,31.3,,,,Could use more practice problems
+Pune,Biology,Morning,22.1,72.3,99.1,46.7,Medium,Would recommend to others
+Bangalore,Physics,Morning,13.4,61.1,53.0,34.7,Low,"Great course, learned a lot"
+Delhi,CS,Weekend,2.8,39.8,,63.3,Low,"Great course, learned a lot"
+Delhi,Biology,Weekend,3.7,38.4,,70.6,Low,"Great course, learned a lot"
+Chennai,CS,Morning,0.2,87.0,43.5,99.1,Low,Need more visual aids
+Chennai,Chemistry,Morning,13.6,59.1,56.0,76.3,Low,Instructor was very helpful
+Mumbai,Math,Weekend,3.9,71.5,47.4,58.7,High,Would recommend to others
+Chennai,Math,Morning,21.4,70.8,52.5,42.0,Medium,Would recommend to others
+Bangalore,Biology,Weekend,2.5,85.5,70.0,52.7,Medium,Would recommend to others
+Bangalore,CS,Morning,7.6,38.4,,75.9,Medium,Excellent teaching style
+Chennai,CS,Weekend,0.7,95.6,62.7,60.9,Medium,Could use more practice problems
+Pune,Physics,Weekend,21.2,20.0,,62.7,Medium,Would recommend to others
+Mumbai,Math,Evening,,95.7,75.2,39.4,Medium,Could use more practice problems
+Delhi,Biology,Morning,5.9,58.8,73.1,44.5,Medium,Could use more practice problems
+Bangalore,Biology,Evening,,84.8,34.1,34.2,Medium,
+Mumbai,CS,Morning,9.5,69.1,42.6,,,Would recommend to others
+Chennai,Physics,Morning,4.8,47.8,59.1,61.5,,Pace was too fast
+Chennai,Biology,Morning,0.3,20.0,,,Low,"Great course, learned a lot"
+Delhi,Biology,Evening,1.6,43.2,49.1,46.7,High,Could use more practice problems
+Chennai,Math,Morning,24.8,73.3,49.6,70.1,Medium,Materials were comprehensive
+Chennai,Biology,Weekend,17.9,66.9,44.1,,Medium,Could use more practice problems
+Pune,Physics,Weekend,0.8,68.6,96.6,49.1,Medium,Need more visual aids
+Mumbai,Physics,Morning,1.2,90.2,61.4,72.1,Low,"Great course, learned a lot"
+Chennai,Chemistry,Morning,0.6,56.1,65.1,66.4,Medium,Pace was too fast
+Bangalore,Biology,Weekend,2.8,34.5,,77.8,Low,Instructor was very helpful
+Delhi,Math,Weekend,,78.8,63.0,56.0,Low,"Great course, learned a lot"
+Pune,Biology,Evening,2.3,84.0,64.6,100.0,High,Need more visual aids
+Mumbai,Biology,Evening,4.8,42.0,81.8,37.6,Low,
+Pune,Biology,Morning,5.4,94.3,64.5,94.5,Low,
+Chennai,Biology,Evening,11.5,63.6,100.0,51.8,Medium,Need more visual aids
+Delhi,CS,Evening,15.3,77.3,71.6,56.9,Medium,Would recommend to others
+Chennai,Math,Evening,1.6,24.2,,39.5,,Need more visual aids
+Mumbai,Math,Evening,18.3,37.6,,74.1,Medium,Would recommend to others
+Bangalore,Biology,Morning,10.0,20.0,,67.1,High,Excellent teaching style
+Delhi,Math,Weekend,6.6,34.6,,42.6,,Pace was too fast
+Delhi,Biology,Weekend,11.3,70.0,50.6,70.1,Medium,Pace was too fast
+Bangalore,Chemistry,Evening,0.6,78.4,70.7,67.4,Medium,Pace was too fast
+Pune,Math,Morning,3.7,40.9,67.0,41.2,Medium,"Great course, learned a lot"
+Delhi,Chemistry,Weekend,6.9,45.6,65.0,49.7,Medium,"Great course, learned a lot"
+Chennai,Biology,Morning,1.3,34.5,,73.0,Medium,Need more visual aids
+Mumbai,CS,Weekend,0.7,74.1,57.6,36.5,High,Excellent teaching style
+Chennai,Math,Weekend,5.4,67.1,62.0,38.2,High,
+Bangalore,CS,Weekend,10.4,42.2,47.8,30.6,,Would recommend to others
+Mumbai,Chemistry,Weekend,1.4,84.8,79.8,72.8,Medium,Instructor was very helpful
+Bangalore,Biology,Evening,34.2,20.0,,46.1,Low,Would recommend to others
+Pune,Biology,Morning,6.0,63.6,71.2,31.3,Medium,Need more visual aids
+Delhi,CS,Weekend,13.3,59.4,58.1,67.6,Medium,Materials were comprehensive
+Delhi,Biology,Morning,2.6,26.6,,46.1,High,Materials were comprehensive
+Mumbai,Physics,Weekend,2.6,81.5,78.4,58.3,Low,Need more visual aids
+Mumbai,Physics,Evening,1.7,76.0,89.4,89.0,Low,
+Pune,Biology,Morning,14.2,93.4,37.4,80.1,High,Instructor was very helpful
+Bangalore,Math,Evening,21.6,49.8,65.0,46.9,Low,Excellent teaching style
+Bangalore,Physics,Morning,20.2,66.4,42.1,60.3,High,Pace was too fast
+Bangalore,Math,Morning,8.2,36.1,,43.9,,Materials were comprehensive
+Bangalore,CS,Evening,13.6,71.7,77.9,54.3,,
+Pune,Physics,Evening,13.0,61.8,46.8,69.6,Medium,Would recommend to others
+Bangalore,Physics,Evening,17.7,74.6,51.5,39.3,Medium,Pace was too fast
+Chennai,CS,Morning,2.2,33.2,,74.0,Medium,Excellent teaching style
+Chennai,Math,Evening,1.7,63.2,78.0,83.1,Medium,Need more visual aids
+Pune,CS,Evening,4.6,70.9,74.0,72.6,Medium,Pace was too fast
+Pune,Chemistry,Morning,7.8,94.2,78.7,,High,Materials were comprehensive
+Mumbai,CS,Evening,0.6,32.4,,,Medium,Could use more practice problems
+Bangalore,Biology,Weekend,3.6,43.7,73.2,57.8,Medium,Instructor was very helpful
+Delhi,CS,Morning,3.0,60.3,75.1,,Low,Instructor was very helpful
+Chennai,Physics,Morning,7.9,35.7,,,Medium,Instructor was very helpful
+Pune,Chemistry,Morning,3.4,86.5,56.0,67.2,Low,Would recommend to others
+Mumbai,Biology,Morning,,32.9,,74.1,Low,Pace was too fast
+Chennai,Math,Weekend,5.5,67.7,69.3,47.3,Medium,Would recommend to others
+Chennai,Math,Evening,4.0,51.8,52.4,,Medium,Pace was too fast
+Mumbai,CS,Evening,5.8,78.4,63.2,31.4,Medium,Could use more practice problems
+Mumbai,Biology,Morning,3.7,88.8,71.7,56.9,Low,Need more visual aids
+Chennai,Physics,Morning,32.3,62.1,45.9,48.1,High,Could use more practice problems
+Chennai,Biology,Weekend,10.4,55.0,70.7,,High,Excellent teaching style
+Bangalore,Biology,Morning,5.1,57.6,59.9,,High,Instructor was very helpful
+Chennai,Chemistry,Morning,10.2,69.1,70.7,56.7,Low,
+Delhi,Chemistry,Evening,2.6,48.7,53.5,60.9,Low,
+Bangalore,CS,Weekend,2.1,69.1,66.2,40.2,High,Instructor was very helpful
+Chennai,Biology,Morning,7.0,97.0,77.2,53.7,Medium,Would recommend to others
+Bangalore,Biology,Weekend,27.9,55.4,73.1,75.7,Medium,Excellent teaching style
+Pune,Chemistry,Morning,1.4,56.1,36.6,72.0,Medium,Would recommend to others
+Mumbai,Math,Weekend,6.2,71.5,84.1,,Medium,Would recommend to others
+Delhi,Math,Weekend,5.5,62.5,62.4,54.8,Medium,
+Delhi,Biology,Evening,0.1,59.9,43.2,33.0,,"Great course, learned a lot"
+Delhi,Biology,Weekend,11.2,47.8,62.0,,High,Excellent teaching style
+Chennai,Math,Morning,3.7,48.6,64.8,90.3,Medium,Pace was too fast
+Mumbai,Chemistry,Weekend,6.4,93.8,50.5,60.6,High,Materials were comprehensive
+Mumbai,Physics,Evening,2.8,58.8,70.7,68.6,Medium,"Great course, learned a lot"
+Delhi,Physics,Morning,1.0,60.9,53.1,65.1,Low,Need more visual aids
+Bangalore,Biology,Weekend,1.3,58.6,30.1,37.5,Medium,Could use more practice problems
+Pune,Physics,Evening,4.8,33.1,,46.9,Medium,Could use more practice problems
+Delhi,Physics,Weekend,0.1,20.0,,68.2,High,Materials were comprehensive
+Delhi,Physics,Evening,2.3,66.1,77.0,39.6,Medium,Need more visual aids
+Bangalore,Biology,Evening,1.6,44.7,79.4,62.8,Medium,Excellent teaching style
+Mumbai,CS,Weekend,9.2,34.4,,71.5,Medium,Need more visual aids
+Mumbai,CS,Evening,1.5,44.1,56.5,56.5,High,Could use more practice problems
+Bangalore,CS,Evening,21.1,41.3,54.9,80.7,Medium,Instructor was very helpful
+Chennai,CS,Weekend,10.7,29.5,,42.2,Medium,Would recommend to others
+Bangalore,Physics,Morning,1.4,20.4,,69.1,Low,Instructor was very helpful
+Delhi,Math,Evening,1.2,73.0,35.1,68.4,High,Could use more practice problems
+Pune,Biology,Morning,,79.1,85.4,36.9,High,Materials were comprehensive
+Pune,Biology,Evening,34.0,49.2,55.8,79.3,,Excellent teaching style
+Pune,Biology,Evening,,54.6,63.7,57.6,Low,Materials were comprehensive
+Mumbai,Physics,Morning,1.6,65.0,39.9,34.5,Low,Would recommend to others
+Pune,Biology,Morning,3.4,67.0,51.8,41.7,Medium,Could use more practice problems
+Delhi,CS,Weekend,5.6,65.8,51.8,58.9,Medium,Excellent teaching style
+Bangalore,Chemistry,Evening,6.0,46.3,52.0,59.3,Medium,Would recommend to others
+Delhi,Chemistry,Weekend,15.8,88.1,59.1,70.4,Medium,Instructor was very helpful
+Bangalore,Chemistry,Morning,,60.4,80.3,53.9,Medium,
+Mumbai,Physics,Morning,6.5,63.3,57.7,43.5,Low,Instructor was very helpful
+Chennai,CS,Morning,3.6,41.0,91.1,52.3,Medium,"Great course, learned a lot"
+Delhi,CS,Morning,,93.8,49.5,40.9,Medium,Pace was too fast
+Bangalore,Chemistry,Evening,0.8,75.1,45.3,58.5,Medium,Could use more practice problems
+Pune,CS,Evening,16.4,88.4,75.5,44.8,High,Excellent teaching style
+Delhi,CS,Evening,0.5,50.4,40.8,55.1,Low,
+Mumbai,Chemistry,Morning,1.8,68.0,46.1,69.6,High,"Great course, learned a lot"
+Chennai,Physics,Weekend,3.3,61.0,65.1,58.0,Medium,Would recommend to others
+Mumbai,Biology,Evening,6.1,53.9,18.5,66.3,Low,Would recommend to others
+Chennai,Biology,Evening,12.4,79.1,79.9,44.8,Medium,
+Delhi,Biology,Weekend,5.1,30.5,,99.2,Medium,
+Mumbai,Biology,Weekend,10.8,70.5,58.6,46.2,Low,Need more visual aids
+Chennai,Biology,Evening,6.5,52.6,72.2,,Medium,
+Pune,Physics,Weekend,,29.3,,50.3,Low,"Great course, learned a lot"
+Pune,CS,Weekend,13.3,48.3,98.1,33.0,Low,
+Bangalore,Math,Morning,10.4,49.2,73.9,37.8,Medium,Instructor was very helpful
+Mumbai,Math,Morning,8.7,91.4,46.5,,High,Would recommend to others
+Chennai,Physics,Morning,3.8,28.3,,,Medium,Would recommend to others
+Delhi,Math,Weekend,11.5,42.9,85.2,98.8,High,Materials were comprehensive
+Mumbai,Biology,Morning,11.1,31.6,,68.4,Medium,
+Mumbai,Chemistry,Morning,0.1,65.9,46.2,87.4,High,Materials were comprehensive
+Mumbai,CS,Weekend,2.9,43.5,74.4,32.5,Medium,"Great course, learned a lot"
+Chennai,CS,Weekend,4.3,54.2,70.8,49.2,Medium,
+Delhi,Physics,Morning,6.3,46.4,51.8,,High,"Great course, learned a lot"
+Bangalore,Biology,Weekend,22.1,20.0,,55.9,Medium,"Great course, learned a lot"
+Bangalore,CS,Evening,2.6,41.9,45.6,63.6,,Materials were comprehensive
+Pune,Physics,Evening,0.2,56.2,44.1,74.4,Medium,"Great course, learned a lot"
+Delhi,Chemistry,Morning,1.5,96.9,92.8,89.6,Medium,Would recommend to others
+Pune,Chemistry,Weekend,7.9,57.5,37.1,34.2,Medium,Materials were comprehensive
+Delhi,Math,Morning,0.8,53.0,53.2,80.6,High,Excellent teaching style
+Delhi,Math,Morning,1.1,70.7,58.2,42.7,Medium,Would recommend to others
+Delhi,Math,Weekend,8.6,20.0,,68.8,Low,Instructor was very helpful
+Bangalore,CS,Evening,2.2,48.5,60.1,49.5,Medium,Would recommend to others
+Chennai,Physics,Weekend,1.8,74.4,79.7,75.2,Medium,Materials were comprehensive
+Pune,Physics,Morning,4.3,20.0,,36.5,High,Need more visual aids
+Pune,Biology,Morning,13.8,68.8,60.3,,High,Would recommend to others
+Bangalore,Chemistry,Evening,8.7,76.4,62.6,35.6,,"Great course, learned a lot"
+Delhi,CS,Weekend,22.7,78.1,52.8,49.8,High,Pace was too fast
+Bangalore,Biology,Morning,8.0,31.7,,60.0,Medium,Could use more practice problems
+Bangalore,CS,Morning,0.8,32.8,,62.8,Low,"Great course, learned a lot"
+Mumbai,CS,Evening,3.5,31.2,,62.2,Medium,Excellent teaching style
+Chennai,Biology,Evening,0.6,54.2,69.5,,Low,Need more visual aids
+Mumbai,Physics,Weekend,26.4,23.9,,51.3,Medium,Pace was too fast
+Bangalore,Math,Morning,2.8,91.6,59.7,84.6,High,Instructor was very helpful
+Pune,Math,Morning,0.6,58.8,59.3,,Medium,"Great course, learned a lot"
+Pune,Chemistry,Morning,0.5,69.0,50.9,30.2,Low,Pace was too fast
+Delhi,Physics,Morning,8.7,55.1,55.9,55.7,Low,Need more visual aids
+Pune,Chemistry,Evening,3.3,50.3,59.1,30.0,Low,Excellent teaching style
+Delhi,Math,Weekend,1.8,84.8,33.8,50.4,Medium,
+Pune,Biology,Morning,,98.0,39.1,53.1,Low,Instructor was very helpful
+Bangalore,Math,Evening,13.4,23.2,,38.2,Medium,Materials were comprehensive
+Pune,Chemistry,Morning,5.2,89.7,97.7,52.0,Medium,Need more visual aids
+Pune,Chemistry,Morning,2.0,38.2,,62.2,Medium,Could use more practice problems
+Delhi,Biology,Weekend,2.4,64.3,50.3,57.8,High,"Great course, learned a lot"
+Mumbai,Biology,Evening,6.7,29.3,,34.4,Medium,
+Chennai,CS,Morning,8.0,66.2,68.4,65.0,Medium,Pace was too fast
+Chennai,CS,Weekend,2.4,62.9,60.4,67.5,Medium,Materials were comprehensive
+Mumbai,Chemistry,Morning,1.3,51.3,44.3,95.7,High,Pace was too fast
+Delhi,Biology,Morning,1.3,20.0,,37.9,Medium,Could use more practice problems
+Delhi,Biology,Evening,7.1,66.9,78.2,42.4,,Instructor was very helpful
+Delhi,CS,Morning,12.6,34.9,,54.2,Medium,Could use more practice problems
+Mumbai,Physics,Morning,1.4,49.5,86.7,67.9,Medium,Instructor was very helpful
+Bangalore,Physics,Weekend,28.9,33.8,,72.5,High,Could use more practice problems
+Bangalore,CS,Weekend,11.7,31.4,,72.7,Medium,Need more visual aids
+Bangalore,Physics,Weekend,5.7,55.1,51.7,64.2,Medium,Instructor was very helpful
+Delhi,Physics,Weekend,12.5,61.4,49.3,37.0,Medium,Excellent teaching style
+Chennai,Biology,Weekend,,72.5,60.9,36.9,Medium,Excellent teaching style
+Bangalore,Math,Weekend,1.0,40.4,50.0,62.7,Medium,
+Delhi,Biology,Evening,0.6,45.2,60.1,88.2,Medium,Materials were comprehensive
+Bangalore,CS,Evening,9.5,38.9,,55.3,Medium,Pace was too fast
+Delhi,Biology,Morning,0.7,20.0,,40.4,Medium,
+Mumbai,Physics,Weekend,6.2,77.7,61.3,77.5,Medium,Would recommend to others
+Chennai,Chemistry,Evening,18.0,20.0,,65.6,,Pace was too fast
+Chennai,Physics,Weekend,2.2,21.8,,71.8,,Pace was too fast
+Mumbai,Physics,Morning,14.0,94.2,62.7,68.5,Medium,Instructor was very helpful
+Mumbai,Chemistry,Evening,0.1,20.0,,,High,Materials were comprehensive
+Mumbai,Biology,Evening,8.7,59.3,61.5,81.7,Medium,Pace was too fast
+Chennai,Math,Weekend,8.3,91.5,95.8,70.4,Medium,
+Mumbai,Physics,Morning,26.0,63.6,70.4,71.2,Low,Materials were comprehensive
+Mumbai,CS,Evening,2.3,28.8,,75.5,High,Could use more practice problems
+Bangalore,Physics,Weekend,7.4,20.0,,70.9,High,Would recommend to others
+Delhi,Physics,Weekend,20.8,84.1,75.1,62.9,Medium,Instructor was very helpful
+Delhi,Physics,Weekend,2.9,61.3,52.7,43.3,Medium,Pace was too fast
+Bangalore,Chemistry,Evening,4.4,81.0,72.5,,High,Instructor was very helpful
+Delhi,Chemistry,Weekend,6.2,66.7,53.4,59.5,Medium,Instructor was very helpful
+Mumbai,CS,Morning,3.0,34.0,,56.1,Medium,Materials were comprehensive
+Chennai,CS,Morning,8.1,67.3,56.7,48.6,Medium,Instructor was very helpful
+Delhi,Physics,Evening,3.9,33.1,,53.0,,Could use more practice problems
+Pune,Physics,Weekend,12.2,41.3,69.7,,Low,
+Chennai,Biology,Morning,5.3,69.4,87.6,74.9,Low,Need more visual aids
+Pune,Physics,Weekend,8.8,88.9,71.3,,Medium,Would recommend to others
+Pune,Physics,Morning,15.5,53.5,67.6,57.8,Low,Need more visual aids
+Chennai,CS,Morning,1.2,82.3,83.6,39.9,Low,Could use more practice problems
+Pune,Physics,Weekend,0.3,32.2,,96.1,Medium,Excellent teaching style
+Pune,Math,Weekend,1.9,39.7,,42.5,Medium,Instructor was very helpful
+Delhi,Biology,Morning,8.0,22.5,,81.2,Medium,Excellent teaching style
+Bangalore,Math,Morning,19.1,96.2,73.2,,High,Would recommend to others
+Delhi,Biology,Weekend,5.0,93.3,74.6,74.3,Low,Instructor was very helpful
+Pune,Math,Evening,0.2,20.0,,57.8,Medium,Materials were comprehensive
+Pune,Chemistry,Evening,2.2,20.0,,78.9,Medium,Pace was too fast
+Chennai,Biology,Weekend,5.9,60.0,50.7,79.2,Medium,Pace was too fast
+Bangalore,Chemistry,Weekend,8.5,85.0,85.6,64.1,High,"Great course, learned a lot"
+Delhi,Biology,Evening,24.0,80.1,70.5,33.7,Medium,Materials were comprehensive
+Delhi,CS,Morning,5.6,87.2,91.6,55.1,,Need more visual aids
+Pune,CS,Morning,7.5,41.6,64.8,33.3,Medium,Materials were comprehensive
+Bangalore,Physics,Weekend,22.3,85.4,56.6,48.1,,Instructor was very helpful
+Mumbai,Biology,Morning,14.4,60.2,59.8,47.6,Low,Would recommend to others
+Pune,Physics,Evening,3.8,57.4,36.0,99.8,Low,Pace was too fast
+Chennai,Math,Weekend,6.8,97.0,39.0,55.7,High,Need more visual aids
+Chennai,CS,Morning,3.8,77.0,86.8,67.0,Medium,Would recommend to others
+Delhi,Biology,Morning,7.0,36.5,,,Medium,"Great course, learned a lot"
+Bangalore,Chemistry,Weekend,10.7,43.4,72.5,30.1,Medium,Need more visual aids
+Chennai,Physics,Evening,13.6,76.3,56.4,54.3,Low,Would recommend to others
+Mumbai,CS,Weekend,0.9,65.0,68.3,84.0,Low,Pace was too fast
+Delhi,Math,Morning,18.3,50.4,74.1,83.6,High,Would recommend to others
+Bangalore,Math,Evening,5.6,20.4,,74.4,Medium,Materials were comprehensive
+Delhi,Physics,Weekend,,56.8,75.9,45.4,High,Materials were comprehensive
+Delhi,Physics,Evening,1.5,76.0,48.9,60.2,Low,
+Chennai,Math,Morning,18.2,20.0,,84.8,Medium,Need more visual aids
+Delhi,CS,Evening,9.4,93.5,72.6,49.4,Medium,Could use more practice problems
+Delhi,Math,Evening,12.7,40.2,68.0,100.0,High,Would recommend to others
+Bangalore,Chemistry,Evening,3.6,83.5,48.7,50.6,Low,Would recommend to others
+Chennai,Biology,Evening,0.9,35.8,,60.8,Low,Could use more practice problems
+Delhi,Chemistry,Morning,3.1,75.8,52.3,31.4,Medium,Need more visual aids
+Delhi,Physics,Evening,16.8,52.5,90.0,50.4,Low,Would recommend to others
+Pune,Physics,Weekend,1.4,51.9,67.7,52.8,Low,Pace was too fast
+Delhi,Biology,Weekend,9.8,50.2,61.4,79.6,Low,Need more visual aids
+Delhi,Math,Weekend,4.5,75.8,53.8,,Low,Would recommend to others
+Mumbai,CS,Weekend,4.8,78.3,55.5,,,Excellent teaching style
+Pune,Physics,Weekend,33.3,28.3,,45.8,High,"Great course, learned a lot"
+Pune,Biology,Evening,6.7,95.2,61.6,56.8,Medium,
+Pune,Chemistry,Evening,13.6,80.0,55.0,43.5,Medium,Instructor was very helpful
+Bangalore,Physics,Weekend,4.3,94.3,53.5,100.0,Low,Could use more practice problems
+Chennai,Biology,Evening,2.2,25.8,,,Medium,Would recommend to others
+Chennai,CS,Evening,5.7,37.3,,,Low,Pace was too fast
+Chennai,CS,Morning,2.2,60.3,79.1,48.2,High,Pace was too fast
+Bangalore,Math,Evening,5.6,32.6,,68.3,Low,Instructor was very helpful
+Bangalore,Chemistry,Morning,1.6,79.2,59.1,70.8,High,Could use more practice problems
+Mumbai,Biology,Evening,0.9,21.0,,30.8,High,Excellent teaching style
+Delhi,Biology,Weekend,16.8,98.5,66.8,69.2,Medium,Pace was too fast
+Bangalore,Chemistry,Morning,4.2,49.4,61.2,96.8,Low,Could use more practice problems
+Pune,CS,Evening,15.1,32.3,,76.4,Medium,"Great course, learned a lot"
+Delhi,Physics,Morning,3.1,58.0,36.5,38.3,Medium,"Great course, learned a lot"
+Bangalore,Biology,Morning,,20.0,,54.7,Medium,
+Mumbai,Biology,Morning,7.9,84.6,81.4,54.7,Low,Instructor was very helpful
+Pune,Physics,Evening,21.8,73.7,70.9,64.9,Medium,Could use more practice problems
+Mumbai,Math,Evening,1.2,35.0,,,Medium,Could use more practice problems
+Bangalore,Physics,Morning,7.7,20.0,,58.2,Medium,Excellent teaching style
+Chennai,Chemistry,Weekend,0.2,50.8,68.9,33.4,,Pace was too fast
+Delhi,Biology,Weekend,1.3,72.6,67.7,47.5,Medium,Materials were comprehensive
+Chennai,Chemistry,Weekend,2.7,62.8,70.0,60.2,High,Would recommend to others
+Chennai,Biology,Morning,10.6,68.0,42.9,65.7,Medium,Could use more practice problems
+Delhi,Physics,Evening,10.3,90.4,62.2,48.0,,Materials were comprehensive
+Chennai,Chemistry,Weekend,9.7,89.6,72.4,60.7,Medium,Excellent teaching style
+Mumbai,Math,Evening,3.3,20.0,,70.2,Low,
+Delhi,Physics,Weekend,34.5,76.5,53.8,70.7,High,Need more visual aids
+Pune,Biology,Weekend,7.0,58.6,78.2,71.9,Low,"Great course, learned a lot"
+Pune,Physics,Evening,21.2,67.3,43.6,,Low,Instructor was very helpful
+Bangalore,Chemistry,Morning,4.4,24.3,,50.9,Medium,Materials were comprehensive
+Chennai,CS,Evening,6.9,79.8,79.4,68.2,Low,Need more visual aids
+Pune,Biology,Morning,23.4,43.9,95.2,57.5,Medium,Would recommend to others
+Delhi,Physics,Weekend,3.6,32.0,,71.6,Medium,Could use more practice problems
+Mumbai,Chemistry,Morning,18.2,43.4,71.8,58.6,High,Instructor was very helpful
+Bangalore,Physics,Morning,9.2,91.7,44.2,93.3,Medium,"Great course, learned a lot"
+Mumbai,Biology,Evening,11.8,20.0,,59.6,High,Could use more practice problems
+Mumbai,CS,Morning,1.6,48.1,76.0,73.2,High,Could use more practice problems
+Delhi,Biology,Morning,5.4,90.1,51.1,,Medium,Excellent teaching style
+Mumbai,CS,Morning,19.1,82.7,53.4,,Low,Pace was too fast
+Delhi,CS,Morning,,58.1,52.5,,Medium,Excellent teaching style
+Delhi,Chemistry,Morning,1.5,60.5,74.9,30.1,Medium,Would recommend to others
+Mumbai,Physics,Evening,12.5,29.0,,52.1,Low,Materials were comprehensive
+Delhi,CS,Morning,3.1,64.4,45.8,92.3,Medium,"Great course, learned a lot"
+Mumbai,Chemistry,Evening,0.1,95.3,73.1,50.3,Medium,Instructor was very helpful
+Delhi,Physics,Morning,9.2,85.5,73.8,,High,Could use more practice problems
+Mumbai,CS,Weekend,22.5,89.1,92.5,37.9,Medium,Pace was too fast
+Chennai,Biology,Morning,6.8,42.4,79.4,,High,
+Bangalore,Biology,Weekend,2.1,89.3,86.1,76.1,,Need more visual aids
+Bangalore,CS,Weekend,11.0,60.6,55.0,85.8,Medium,Materials were comprehensive
+Chennai,CS,Morning,5.7,64.0,69.3,54.2,Medium,Would recommend to others
+Pune,Chemistry,Evening,3.8,83.7,96.7,72.0,Medium,Would recommend to others
+Mumbai,Physics,Evening,14.9,67.7,71.2,78.8,Low,Would recommend to others
+Pune,Physics,Weekend,,63.9,62.0,60.2,High,Need more visual aids
+Bangalore,Physics,Weekend,2.5,78.0,75.3,,High,Pace was too fast
+Chennai,CS,Weekend,19.7,68.6,71.7,74.5,Medium,Pace was too fast
+Bangalore,Physics,Weekend,,64.2,86.8,33.9,Medium,
+Pune,CS,Evening,0.4,67.2,58.3,53.0,,"Great course, learned a lot"
+Pune,CS,Morning,0.4,44.9,64.0,39.3,Low,Need more visual aids
+Bangalore,Biology,Morning,1.4,77.5,79.5,82.1,Low,Would recommend to others
+Delhi,Chemistry,Evening,3.8,74.4,45.9,68.3,Medium,Need more visual aids
+Pune,Math,Weekend,4.6,58.1,78.6,50.7,Medium,Need more visual aids
+Chennai,CS,Morning,8.0,74.6,68.0,78.7,Medium,Could use more practice problems
+Chennai,CS,Evening,17.9,91.2,78.7,61.0,Medium,"Great course, learned a lot"
+Pune,Physics,Weekend,11.0,81.3,51.9,70.0,Medium,Need more visual aids
+Delhi,Math,Morning,1.7,82.5,75.2,64.0,Medium,Need more visual aids
+Delhi,CS,Morning,7.5,75.2,71.0,68.2,Medium,Excellent teaching style
+Bangalore,Biology,Morning,17.7,62.2,69.6,69.8,Low,Instructor was very helpful
+Mumbai,Math,Weekend,0.7,76.5,40.8,67.8,High,Would recommend to others
+Chennai,Physics,Morning,1.2,76.6,69.4,89.9,Medium,Instructor was very helpful
+Delhi,CS,Evening,0.4,45.3,74.9,,Medium,Excellent teaching style
+Delhi,Math,Evening,20.9,20.0,,31.4,Low,Could use more practice problems
+Delhi,CS,Evening,16.5,51.3,84.8,75.4,,"Great course, learned a lot"
+Bangalore,Math,Evening,3.1,75.3,83.3,63.8,Low,Need more visual aids
+Pune,Physics,Evening,19.7,47.9,53.2,,Medium,Materials were comprehensive
+Pune,CS,Evening,1.3,41.3,36.5,49.9,Low,Materials were comprehensive
+Pune,Math,Weekend,10.4,20.0,,,Medium,
+Delhi,CS,Weekend,14.6,46.7,58.2,44.4,Medium,Would recommend to others
+Delhi,Physics,Weekend,13.2,73.5,72.8,74.1,Low,Could use more practice problems
+Bangalore,Biology,Weekend,24.6,57.2,77.5,91.2,High,Excellent teaching style
+Pune,Math,Weekend,9.1,89.2,82.2,48.5,,
+Bangalore,Physics,Weekend,4.5,64.3,74.8,41.9,Low,
+Mumbai,Chemistry,Evening,10.2,49.9,66.4,48.1,Medium,Materials were comprehensive
+Mumbai,Math,Weekend,5.1,45.5,69.2,39.9,,Excellent teaching style
+Mumbai,CS,Evening,46.1,69.0,96.7,68.3,Medium,Instructor was very helpful
+Mumbai,Math,Weekend,1.8,96.2,52.8,61.7,High,"Great course, learned a lot"
+Delhi,Biology,Weekend,5.9,54.8,64.4,47.7,Medium,Excellent teaching style
+Delhi,Biology,Weekend,5.4,70.0,87.9,55.4,Medium,
+Mumbai,Math,Weekend,0.1,22.3,,49.3,Low,Excellent teaching style
+Chennai,Math,Weekend,22.6,27.3,,69.9,Low,"Great course, learned a lot"
+Chennai,Physics,Weekend,,58.5,74.8,85.5,High,Excellent teaching style
+Mumbai,Physics,Weekend,15.9,95.2,65.8,44.0,Low,"Great course, learned a lot"
+Mumbai,CS,Morning,3.1,44.5,49.6,30.3,Medium,Could use more practice problems
+Mumbai,CS,Evening,1.0,57.8,39.7,86.4,High,Need more visual aids
+Chennai,Math,Weekend,6.6,77.6,57.3,38.4,Medium,Need more visual aids
+Bangalore,Physics,Weekend,0.8,90.4,58.2,45.5,Medium,Excellent teaching style
+Delhi,Chemistry,Morning,0.9,77.4,59.1,,Low,Excellent teaching style
+Pune,Math,Morning,3.7,77.9,87.3,38.1,High,Would recommend to others
+Bangalore,Math,Weekend,0.1,83.3,26.8,54.6,Low,Could use more practice problems
+Mumbai,Chemistry,Morning,4.5,97.9,68.7,92.2,Low,Pace was too fast
+Delhi,Chemistry,Evening,11.5,87.4,86.6,74.5,,Materials were comprehensive
+Delhi,Physics,Morning,5.6,27.5,,34.6,Medium,Materials were comprehensive
+Delhi,Math,Evening,11.0,71.3,48.9,90.5,High,Would recommend to others
+Mumbai,Physics,Morning,1.4,75.3,55.6,,Low,
+Bangalore,Chemistry,Evening,3.3,64.0,42.2,66.7,High,Materials were comprehensive
+Pune,Physics,Morning,1.9,50.1,46.3,89.7,Medium,Excellent teaching style
+Pune,Chemistry,Evening,2.4,41.2,52.6,,Low,Instructor was very helpful
+Delhi,Physics,Morning,7.9,20.0,,57.2,Medium,Would recommend to others
+Delhi,CS,Evening,4.6,68.9,65.1,47.1,Low,Could use more practice problems
+Bangalore,CS,Weekend,1.0,72.7,22.6,31.0,Medium,Materials were comprehensive
+Chennai,Chemistry,Evening,14.8,92.4,67.9,,Medium,"Great course, learned a lot"
+Chennai,Chemistry,Morning,8.8,39.5,,39.8,Medium,
+Mumbai,Biology,Morning,0.2,93.8,36.0,65.8,Medium,Need more visual aids
+Pune,CS,Evening,4.4,46.6,52.0,46.1,Medium,"Great course, learned a lot"
+Bangalore,Chemistry,Weekend,,81.7,77.0,,Medium,
+Delhi,Math,Morning,7.8,70.9,40.5,,Low,Pace was too fast
+Bangalore,Chemistry,Evening,3.9,91.6,60.7,30.9,Medium,Could use more practice problems
+Pune,CS,Weekend,3.0,65.9,61.3,60.6,Medium,Instructor was very helpful
+Bangalore,Physics,Weekend,5.9,73.1,72.1,67.4,Low,Need more visual aids
+Pune,CS,Evening,0.5,62.2,63.8,49.6,Low,Pace was too fast
+Mumbai,Biology,Evening,8.2,37.4,,83.4,Medium,Instructor was very helpful
+Pune,Biology,Evening,8.0,88.0,59.6,34.2,Low,Excellent teaching style
+Pune,CS,Evening,8.2,63.6,84.7,45.6,Medium,"Great course, learned a lot"
+Bangalore,Math,Evening,22.9,44.2,82.5,50.0,Medium,Instructor was very helpful
+Chennai,CS,Evening,5.8,27.1,,,High,"Great course, learned a lot"
+Chennai,CS,Evening,2.1,99.8,53.8,85.9,High,"Great course, learned a lot"
+Delhi,Math,Evening,12.7,89.1,25.7,54.8,Low,Materials were comprehensive
+Delhi,Chemistry,Weekend,17.7,33.6,,52.7,Medium,Excellent teaching style
+Pune,Physics,Evening,1.1,83.6,59.8,,High,Would recommend to others
+Bangalore,Biology,Weekend,13.5,75.5,78.0,,Medium,
+Delhi,CS,Morning,2.7,52.5,88.8,48.1,High,Instructor was very helpful
+Chennai,Physics,Weekend,8.9,45.5,71.2,67.6,,Could use more practice problems
+Chennai,Biology,Morning,4.2,62.9,63.5,40.5,Low,Excellent teaching style
+Bangalore,Chemistry,Morning,4.3,86.0,65.8,52.2,High,Excellent teaching style
+Pune,Chemistry,Weekend,1.6,48.0,66.9,58.1,Low,Would recommend to others
+Pune,Biology,Weekend,29.3,20.0,,41.4,Low,Need more visual aids
+Bangalore,Physics,Weekend,3.6,52.1,66.6,61.7,Medium,Materials were comprehensive
+Delhi,Chemistry,Evening,14.1,43.3,60.6,57.9,Medium,Could use more practice problems
+Pune,Chemistry,Weekend,28.0,64.9,70.7,,Medium,Need more visual aids
+Mumbai,Math,Evening,9.1,20.0,,46.1,Low,Need more visual aids
+Mumbai,Physics,Weekend,0.1,35.8,,56.0,Low,
+Bangalore,Math,Weekend,7.2,55.3,68.0,82.1,Medium,"Great course, learned a lot"
+Mumbai,Math,Weekend,7.2,20.0,,46.5,Medium,
+Chennai,Chemistry,Weekend,7.0,67.2,71.9,45.9,Low,Materials were comprehensive
+Pune,Biology,Evening,2.3,24.9,,73.5,Medium,Could use more practice problems
+Delhi,CS,Evening,2.6,62.9,53.9,,Low,Need more visual aids
+Mumbai,CS,Morning,1.1,83.8,60.4,38.2,High,Need more visual aids
+Chennai,Biology,Weekend,1.6,77.6,72.8,35.9,Medium,Need more visual aids
+Bangalore,Chemistry,Evening,8.9,63.4,65.2,85.1,Medium,Pace was too fast
+Mumbai,Math,Evening,1.0,45.4,64.8,43.3,Medium,Instructor was very helpful
+Pune,Physics,Evening,2.6,28.7,,,Low,Excellent teaching style
+Pune,CS,Morning,2.6,75.2,50.9,,Medium,Pace was too fast
+Bangalore,Physics,Evening,,22.6,,36.3,Low,Could use more practice problems
+Pune,Math,Weekend,10.9,25.2,,,Medium,Pace was too fast
+Mumbai,Chemistry,Weekend,3.1,98.6,73.4,66.3,Low,"Great course, learned a lot"
+Delhi,Biology,Evening,7.1,56.0,56.4,45.9,Medium,"Great course, learned a lot"
+Mumbai,CS,Evening,22.4,47.8,37.1,67.0,Low,Excellent teaching style
+Delhi,Math,Evening,0.2,24.4,,33.3,Medium,"Great course, learned a lot"
+Mumbai,Physics,Evening,9.7,39.0,,43.3,,Instructor was very helpful
+Delhi,CS,Morning,19.0,20.0,,52.1,High,Would recommend to others
+Bangalore,Math,Evening,10.5,64.2,58.3,40.7,Low,"Great course, learned a lot"
+Chennai,CS,Evening,6.8,41.5,80.9,67.8,High,Excellent teaching style
+Mumbai,Physics,Evening,5.9,20.0,,49.3,Low,Materials were comprehensive
+Chennai,Chemistry,Evening,0.4,87.1,54.0,34.9,Low,Materials were comprehensive
+Chennai,Physics,Evening,3.9,36.2,,52.0,Low,"Great course, learned a lot"
+Mumbai,CS,Evening,1.2,61.0,83.0,47.5,High,Excellent teaching style
+Pune,Physics,Morning,8.4,89.6,64.9,75.4,High,Need more visual aids
+Delhi,Math,Morning,5.4,60.1,76.2,,Medium,Excellent teaching style
+Pune,Chemistry,Morning,19.9,76.6,49.3,45.0,High,Could use more practice problems
+Pune,CS,Weekend,5.9,26.3,,,Low,Instructor was very helpful
+Chennai,Biology,Evening,5.9,51.6,57.1,41.4,,Could use more practice problems
+Pune,CS,Weekend,2.8,53.8,73.5,44.1,,
+Chennai,Math,Weekend,0.7,41.3,64.9,59.1,Low,Pace was too fast
+Mumbai,CS,Morning,8.0,45.8,78.9,59.5,High,Could use more practice problems
+Bangalore,Chemistry,Morning,4.1,84.9,95.6,58.3,Low,Would recommend to others
+Chennai,Math,Weekend,1.4,20.0,,,Medium,Materials were comprehensive
+Delhi,Physics,Evening,18.6,44.5,67.8,61.3,Medium,Pace was too fast
+Delhi,Math,Evening,3.3,66.5,40.1,71.7,Medium,Pace was too fast
+Mumbai,Biology,Evening,0.6,74.8,60.9,64.4,Medium,Could use more practice problems
+Mumbai,Biology,Weekend,0.0,63.6,59.0,47.3,Low,Pace was too fast
+Mumbai,Chemistry,Weekend,15.0,69.5,56.2,98.2,Medium,Pace was too fast
+Mumbai,Chemistry,Evening,2.3,80.1,63.1,43.4,Medium,Would recommend to others
+Pune,Chemistry,Morning,7.1,20.9,,34.5,Medium,Instructor was very helpful
+Delhi,Biology,Morning,13.2,77.8,59.3,86.2,Medium,Pace was too fast
+Pune,Math,Evening,24.1,47.5,57.6,,Low,Materials were comprehensive
+Bangalore,Biology,Morning,19.7,32.0,,97.0,Medium,
+Chennai,Chemistry,Morning,0.9,57.9,46.2,,Medium,Materials were comprehensive
+Mumbai,Physics,Morning,,66.3,92.9,61.1,Medium,Could use more practice problems
+Chennai,Chemistry,Weekend,15.9,35.7,,72.2,High,Would recommend to others
+Bangalore,Chemistry,Evening,0.1,20.0,,49.1,Medium,"Great course, learned a lot"
+Chennai,Biology,Morning,27.0,52.3,58.1,86.7,Low,Pace was too fast
+Bangalore,CS,Morning,1.3,55.9,80.0,,Low,Pace was too fast
+Delhi,Physics,Evening,23.9,36.1,,69.2,Medium,Could use more practice problems
+Delhi,Math,Evening,17.5,66.3,57.0,30.2,High,Could use more practice problems
+Mumbai,Physics,Morning,0.9,39.5,,50.4,,Pace was too fast
+Mumbai,Math,Evening,26.0,47.7,61.1,63.9,Medium,Would recommend to others
+Chennai,CS,Weekend,10.0,38.9,,41.6,Medium,Could use more practice problems
+Bangalore,Math,Weekend,0.8,90.5,83.1,40.4,Medium,Would recommend to others
+Chennai,Chemistry,Evening,18.1,76.7,37.8,58.6,Medium,Materials were comprehensive
+Bangalore,Physics,Evening,3.5,75.9,60.0,67.8,Medium,Materials were comprehensive
+Mumbai,Physics,Morning,7.7,71.1,42.4,43.5,Medium,"Great course, learned a lot"
+Mumbai,Biology,Evening,,43.8,100.0,36.5,High,Materials were comprehensive
+Mumbai,Physics,Evening,24.6,72.8,47.4,55.8,Medium,Materials were comprehensive
+Bangalore,Math,Evening,1.9,84.9,88.4,41.0,Medium,"Great course, learned a lot"
+Pune,CS,Morning,9.5,88.6,82.8,80.9,High,Instructor was very helpful
+Mumbai,Math,Morning,1.5,71.0,61.8,94.3,Low,Would recommend to others
+Chennai,Physics,Morning,1.6,36.0,,56.1,Medium,Could use more practice problems
+Mumbai,Math,Weekend,19.6,54.4,66.9,51.8,Low,Would recommend to others
+Chennai,Physics,Morning,3.1,20.0,,61.4,Medium,"Great course, learned a lot"
+Mumbai,CS,Weekend,0.1,92.3,52.0,63.4,Low,
+Delhi,Math,Morning,2.5,28.7,,52.0,Low,
+Chennai,Physics,Weekend,7.2,77.6,65.0,80.6,High,Excellent teaching style
+Chennai,Math,Morning,0.5,61.8,62.0,47.0,,Could use more practice problems
+Mumbai,Physics,Morning,7.0,40.4,48.0,64.7,High,Would recommend to others
+Chennai,Math,Morning,,62.2,41.4,66.0,Low,Need more visual aids
+Mumbai,CS,Weekend,9.2,60.8,78.4,81.4,Low,Pace was too fast
+Chennai,Math,Weekend,4.8,54.0,35.4,49.4,Medium,Could use more practice problems
+Delhi,Chemistry,Morning,3.7,55.3,78.5,78.6,Medium,Need more visual aids
+Mumbai,CS,Weekend,4.0,49.5,74.4,66.2,Medium,"Great course, learned a lot"
+Chennai,CS,Weekend,1.4,29.8,,96.5,High,Excellent teaching style
+Chennai,Chemistry,Weekend,1.2,24.6,,30.3,Low,"Great course, learned a lot"
+Mumbai,CS,Evening,6.8,57.4,80.9,45.9,High,"Great course, learned a lot"
+Delhi,Biology,Evening,2.2,84.2,74.6,53.3,Medium,Could use more practice problems
+Bangalore,CS,Weekend,2.3,53.0,65.9,,High,"Great course, learned a lot"
+Delhi,Chemistry,Evening,5.2,78.7,76.2,55.6,High,Could use more practice problems
+Pune,Math,Evening,39.7,49.2,52.8,57.0,Low,
+Delhi,Physics,Evening,2.4,20.0,,35.9,Low,Pace was too fast
+Mumbai,Math,Evening,7.6,82.6,67.8,50.9,Medium,Could use more practice problems
+Chennai,Math,Weekend,0.4,38.7,,30.8,Medium,Instructor was very helpful
+Pune,Chemistry,Morning,6.0,56.0,74.1,90.5,Low,"Great course, learned a lot"
+Delhi,Biology,Morning,9.7,73.1,69.2,30.5,High,
+Chennai,Physics,Weekend,0.3,87.6,48.8,74.8,,
+Chennai,Biology,Weekend,6.3,99.4,47.8,81.3,Medium,Pace was too fast
+Chennai,Chemistry,Evening,15.2,54.6,69.1,65.2,High,Excellent teaching style
+Pune,Biology,Evening,1.2,86.7,47.8,95.0,,Would recommend to others
+Chennai,Physics,Evening,26.3,35.5,,59.3,,"Great course, learned a lot"
+Chennai,Math,Evening,1.0,41.5,49.8,78.8,Low,"Great course, learned a lot"
+Bangalore,Physics,Morning,3.7,65.9,60.3,74.0,Medium,Instructor was very helpful
+Chennai,Physics,Weekend,12.8,81.4,79.7,53.5,Low,"Great course, learned a lot"
+Delhi,Chemistry,Morning,3.9,49.6,57.1,41.6,Low,Would recommend to others
+Bangalore,Biology,Weekend,18.2,74.8,60.4,94.9,Medium,Would recommend to others
+Delhi,CS,Morning,13.0,94.4,39.4,36.1,,Materials were comprehensive
+Chennai,Physics,Weekend,10.7,86.3,98.2,62.4,Medium,Need more visual aids
+Delhi,Chemistry,Evening,6.8,39.5,,53.8,Medium,"Great course, learned a lot"
+Mumbai,Physics,Weekend,7.7,20.0,,74.9,Medium,Would recommend to others
+Bangalore,Math,Weekend,4.6,59.4,63.5,47.2,Medium,Would recommend to others
+Delhi,Math,Weekend,13.8,97.3,71.5,86.6,Medium,Could use more practice problems
+Chennai,CS,Weekend,12.7,54.7,52.6,61.7,High,Would recommend to others
+Pune,Physics,Weekend,34.4,55.3,66.3,63.0,,Excellent teaching style
+Bangalore,Math,Evening,4.3,84.3,52.3,,,Would recommend to others
+Chennai,CS,Morning,2.2,56.8,72.4,69.1,High,Need more visual aids
+Bangalore,Math,Weekend,2.5,64.7,76.5,81.0,Medium,Materials were comprehensive
+Mumbai,Chemistry,Weekend,0.9,50.4,81.0,50.6,Medium,Instructor was very helpful
+Chennai,Chemistry,Evening,0.8,41.2,82.3,68.9,Medium,Instructor was very helpful
+Delhi,Math,Weekend,8.1,59.6,81.4,41.3,Medium,
+Chennai,Biology,Weekend,0.5,74.1,68.8,47.4,Medium,Could use more practice problems
+Mumbai,Math,Morning,3.5,60.5,65.4,61.8,,Pace was too fast
+Chennai,Chemistry,Weekend,10.0,60.2,63.0,47.1,Low,Would recommend to others
+Chennai,Math,Weekend,2.7,91.8,55.1,54.3,Medium,Materials were comprehensive
+Delhi,Biology,Weekend,,89.0,54.7,87.8,Medium,Would recommend to others
+Mumbai,Biology,Weekend,16.5,52.8,65.4,66.3,,
+Bangalore,Physics,Morning,7.6,24.6,,52.2,Medium,Need more visual aids
+Pune,Biology,Morning,6.1,81.1,88.2,91.3,Low,Pace was too fast
+Pune,Biology,Weekend,1.8,74.7,56.4,60.9,Low,Could use more practice problems
+Delhi,CS,Morning,4.2,64.6,61.4,54.8,High,Pace was too fast
+Bangalore,Physics,Evening,13.3,41.8,56.7,47.5,Medium,Would recommend to others
+Mumbai,Math,Evening,12.0,65.0,83.4,48.0,Medium,Materials were comprehensive
+Chennai,Chemistry,Morning,9.7,20.8,,61.7,Medium,"Great course, learned a lot"
+Chennai,CS,Weekend,3.0,28.0,,87.4,Medium,Pace was too fast
