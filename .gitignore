@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Superpowers
+/docs/*
+
+# Assignments (local only, not in origin)
+Assignments/
